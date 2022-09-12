@@ -1,0 +1,7 @@
+{
+  "name": "Bloom21",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
